@@ -1,4 +1,4 @@
-# Analysis marriage event of Alberta province for recent year
+### Analysis marriage event of Alberta province for recent year
 
 <b><h1 align="center">Dashboard</h1></b>
 <p align="center">
