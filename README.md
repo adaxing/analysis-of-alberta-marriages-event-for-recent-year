@@ -1,7 +1,9 @@
-# analysis-of-alberta-marriages-event-for-recent-year
-Data sources are from https://open.alberta.ca/
-https://github.com/adaxing/marriage-analysis
-![alt text](demo.gif)
+### Analysis marriage event of Alberta province for recent year
+
+<b><h1 align="center">Dashboard</h1></b>
+<p align="center">
+  <img width="100%" src="demo.gif">
+</p>
 
 
 ## Changes based on Year&Month
@@ -34,3 +36,5 @@ Cities,Calgary and Edmonton, is not highest one, instead Banff, Jasper and Cards
 - First legal year, the larger number of greater than 35 years old people get married. After that, age of younger people get married increased. 
 - Most marital status is never-married, and two spouses takes same ratio of marital status. 
 
+### Reference
+Data sources are from https://open.alberta.ca/
