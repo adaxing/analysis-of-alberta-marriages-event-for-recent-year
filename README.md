@@ -1,7 +1,7 @@
 # analysis-of-alberta-marriages-event-for-recent-year
 Data sources are from https://open.alberta.ca/
-
-![alt text](report.png)
+https://github.com/adaxing/marriage-analysis
+![alt text](demo.gif)
 
 
 ## Changes based on Year&Month
